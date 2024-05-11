@@ -7,6 +7,7 @@
 `Data cleaning` :It involves removing duplicates, handling missing values.
 
 `Data Processing`: Analyzing and manipulating data to extract meaningful information.
+
 `README.md`: This file providing instructions and information about the data.
 
 ## Requirements
